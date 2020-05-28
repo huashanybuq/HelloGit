@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("更新3 主干修改");
         System.out.println("创建分支");
         System.out.println("外部修改！");
+        System.out.println("合作伙伴修改！");
     }
 }
