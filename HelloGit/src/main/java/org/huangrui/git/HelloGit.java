@@ -15,5 +15,6 @@ public class HelloGit {
         System.out.println("外部修改！");
         System.out.println("合作伙伴修改！");
         System.out.println("测试gitee ssh！");
+        System.out.println("测试gitHub ssh！");
     }
 }
